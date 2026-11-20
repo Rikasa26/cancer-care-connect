@@ -1,0 +1,7 @@
+# Uploaded medical documents must never go to GitHub
+uploads/*
+!uploads/.htaccess
+!uploads/index.php
+.vscode/
+*.log
+.DS_Store
